@@ -1,1 +1,1 @@
-# appimage-app
+# macos-app
